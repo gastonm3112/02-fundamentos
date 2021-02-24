@@ -6,3 +6,5 @@
 - Template Strings
 - Callbacks básico
 - Callback Hell
+- Promesas
+- Async-await
